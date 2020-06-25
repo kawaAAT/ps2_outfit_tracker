@@ -7,7 +7,7 @@ Usage:
 3. Type `node main.js`
 4. Enter outfit tag, example: >BHO
 
-To stop tracking press any key or simplt close console.
+To stop tracking press any key or simply close the console.
 Table with results will be into root folder of this app.
 
 Output automaticly updates, so you won't lose data in different emergency situations.
